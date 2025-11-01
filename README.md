@@ -44,6 +44,9 @@ My repo :https://github.com/megha1002240/replicate-repo-github.git
 ✅ Now this will automatically sync your GitLab repo with GitHub.
 
 Now push a file in your gitlab repositories they automatic replicate to your github repositories
+<img width="1920" height="1008" alt="Screenshot 2025-10-30 111716" src="https://github.com/user-attachments/assets/e8ce2658-3270-4f8f-9cba-24fa473af0b9" />
+<img width="1920" height="1008" alt="Screenshot 2025-10-30 111720" src="https://github.com/user-attachments/assets/a1721e35-c256-4ccb-8702-4d5fa6aa4e5a" />
+
 
 # 🏁 Conclusion
 
