@@ -12,20 +12,20 @@ The goal is to maintain code synchronization automatically — whenever new comm
 # Step-by-Step Setup
 # Step 1 :Create two repository
 1️⃣ Create in GitLab
-● 
-● Click New Project → Blank Project
-● Name it: replicate-repo
-● Click Create Project
+1. Go to https://gitlab.com
+2. Click New Project → Blank Project
+3. Give name it: replicate-repo
+4. Click Create Project
 
 <img width="1920" height="1008" alt="Screenshot 2025-10-30 105016" src="https://github.com/user-attachments/assets/8c992043-6ef5-415e-9a3e-21d908fc40b1" />
 My repo :https://gitlab.com/megha2005-group/relicate-repo.git
 
 2️⃣ Create in GitHub
-Go to https://github.com
-● Click New Repository
-● Name it: replicate-repo
-● Keep it Public
-● Click Create Repository
+1. Go to https://github.com
+2. Click New Repository
+3. Give name it: replicate-repo-github
+4. Keep it Public
+5. Click Create Repository
 
 <img width="1920" height="1008" alt="Screenshot 2025-10-30 105234" src="https://github.com/user-attachments/assets/c1551302-1c66-4d85-8907-0bd97fdf4fe0" />
 My repo :https://github.com/megha1002240/replicate-repo-github.git
